@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://thumbs.gfycat.com/IdenticalNewGrosbeak-size_restricted.gif" alt="Welcome to my Github!" align="center"></div>
+<div align="center"><img src="https://thumbs.gfycat.com/IdenticalNewGrosbeak-size_restricted.gif" alt="Welcome to my Github!" align="center" width="5000" height="450"></div>
 
 <h1 align="center">:wave:  Hi there, I'm Jeremy! Welcome to my Github.  :open_file_folder:</h1>
 <h2 align="center">I'm a :mountain: Seattle based software engineer coding full-stack Javascript applications.</h3>
