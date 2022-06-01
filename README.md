@@ -1,10 +1,11 @@
-![Welcome to my Github](https://thumbs.gfycat.com/IdenticalNewGrosbeak-size_restricted.gif)
-# Hi there 👋, I'm Jeremy!
-## Welcome to my Github!
 
-###I'm a ⛰️ Seattle based software engineer coding full-stack Javascript applications.
+<div align="center"><img src="https://thumbs.gfycat.com/IdenticalNewGrosbeak-size_restricted.gif" alt="Welcome to my Github!" align="center"></div>
 
-####Skills: ReactJS / JavaScript / HTML / CSS / NodeJS
+<h1 align="center">:wave:  Hi there, I'm Jeremy! Welcome to my Github.  :open_file_folder:</h1>
+<h2 align="center">I'm a :mountain: Seattle based software engineer coding full-stack Javascript applications.</h3>
+
+
+Skills: ReactJS / JavaScript / HTML / CSS / NodeJS
 
 - 🔭 I’m currently working on this page. 
 
