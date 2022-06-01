@@ -1,10 +1,10 @@
 ![Welcome to my Github](https://thumbs.gfycat.com/IdenticalNewGrosbeak-size_restricted.gif)
-### Hi there 👋, I'm Jeremy!
-#### Welcome to my Github
+# Hi there 👋, I'm Jeremy!
+## Welcome to my Github!
 
-I'm a ⛰️ Seattle based software engineer coding full-stack Javascript applications.
+###I'm a ⛰️ Seattle based software engineer coding full-stack Javascript applications.
 
-Skills: ReactJS / JavaScript / HTML / CSS / NodeJS
+####Skills: ReactJS / JavaScript / HTML / CSS / NodeJS
 
 - 🔭 I’m currently working on this page. 
 
