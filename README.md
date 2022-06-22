@@ -14,5 +14,4 @@ Skills: ReactJS / JavaScript / HTML / CSS / NodeJS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jquihano&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jquihano)  
 
