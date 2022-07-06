@@ -3,7 +3,18 @@
 
 <h1 align="center">:wave:  Hi there, I'm Jeremy! Welcome to my Github.  :open_file_folder:</h1>
 <h2 align="center">I'm a :mountain: Seattle based software engineer coding full-stack Javascript applications.</h3>
-
+---
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -21,7 +32,7 @@
 - 🔭 I’m currently working on this page. 
 
 ---
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jquihano)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jeremy-quihano//)  
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jquihano&show_icons=true)  
 
