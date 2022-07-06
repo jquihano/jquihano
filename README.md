@@ -3,8 +3,8 @@
 
 <h1 align="center">:wave:  Hi there, I'm Jeremy! Welcome to my Github.  :open_file_folder:</h1>
 <h2 align="center">I'm a :mountain: Seattle based software engineer coding full-stack Javascript applications.</h3>
----
-<div id="badges">
+
+<div align="center" id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
----
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   
