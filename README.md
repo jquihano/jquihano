@@ -20,14 +20,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-jeremyquihanodev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremyquihanodev@gmail.com)](mailto:jeremyquihanodev@gmail.com)
 
  
-</div>
- 
- <div align="center">
-
-  </div>
- 
   <h3> :toolbox: Tech Toolbox :</h3>
- <div align="center">
+ <div align="">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
