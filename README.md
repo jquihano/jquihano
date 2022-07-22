@@ -2,7 +2,7 @@
 <div align="center"><img src="https://thumbs.gfycat.com/IdenticalNewGrosbeak-size_restricted.gif" alt="Welcome to my Github!" align="center" width="100%" height="300"></div>
 
 <h2 align="center">  Hi :wave:, I'm Jeremy! </h2>
-<h3 align="center">I'm a :mountain: Seattle based software engineer coding full-stack Javascript applications.</h3>
+<h3 align="center">A full stack engineer in Seattle, WA </h3>
 
 ### Connect with me  :coffee: :
 <p align="center">
