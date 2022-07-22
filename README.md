@@ -1,8 +1,16 @@
 
 <div align="center"><img src="https://thumbs.gfycat.com/IdenticalNewGrosbeak-size_restricted.gif" alt="Welcome to my Github!" align="center" width="100%" height="300"></div>
 
-<h2 align="center">  Hi :wave:, I'm Jeremy! </h2>
+<h1 align="center">  Hi :wave:, I'm Jeremy! </h1>
 <h3 align="center">A full stack engineer in Seattle, WA </h3>
+
+- 💡 Ask me about the **MERN** stack!
+
+- 🌱 I am currently learning **React**
+
+- 💼 Accepting new clients. Check out my [portfolio](https://.netlify.app/)!
+
+- 📫 Email me at [jeremyquihanodev@gmail.com](mailto:jeremyquihanodev@gmail.com)
 
 ### Connect with me  :coffee: :
 <p align="center">
