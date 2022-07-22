@@ -15,17 +15,9 @@
 - 📫 Email me at [jeremyquihanodev@gmail.com](mailto:jeremyquihanodev@gmail.com)
 
 ### Connect with me  :coffee: :
-<p align="center">
-<br/>
-<a href="https://twitter.com/thecozydev">
-  <img alt="Jeremy | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
-</a>
-<a href="https://www.linkedin.com/in/jquihano">
-  <img alt="Jeremy's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://www.instagram.com/#">
-  <img alt="Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
-</a>
+
+[![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
+[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
  
 </div>
