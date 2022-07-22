@@ -1,8 +1,8 @@
 
 <div align="center"><img src="https://thumbs.gfycat.com/IdenticalNewGrosbeak-size_restricted.gif" alt="Welcome to my Github!" align="center" width="100%" height="300"></div>
 
-<h3 align="center">:wave:  Hi there, I'm Jeremy! Welcome to my Github.  :open_file_folder:</h1>
-<h4 align="center">I'm a :mountain: Seattle based software engineer coding full-stack Javascript applications.</h3>
+<h2 align="center">:wave:  Hi there, I'm Jeremy! Welcome to my Github.  :open_file_folder:</h2>
+<h3 align="center">I'm a :mountain: Seattle based software engineer coding full-stack Javascript applications.</h3>
 
 ### Connect with me  :coffee: :
 <p align="center">
