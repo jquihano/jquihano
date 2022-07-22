@@ -50,7 +50,7 @@
 ---
 <div align="center">
 
-<a><h2>Always up for a challenge :)</h2></a>
+<a><h2>Always up for a challenge 👾</h2></a>
 	<div>
 	  ![](https://github-readme-codewars-stats.herokuapp.com/api/?username=aloha.codes&badge&customcolor=bg:2a295b_fg:b500ed_text:fc4646_logo:2a295b_stroke:f75402)
 	</div>
