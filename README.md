@@ -16,7 +16,7 @@
 
 ### Connect with me  :coffee: :
 
-[![Twitter Badge](https://img.shields.io/badge/-@thecozydev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thecozydev)](https://twitter.com/thecozydev) [![Linkedin Badge](https://img.shields.io/badge/-jquihano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jquihano/)](https://www.linkedin.com/in/jquihano/) 
+[![Twitter Badge](https://img.shields.io/badge/-@thecozydev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thecozydev)](https://twitter.com/thecozydev) [![Linkedin Badge](https://img.shields.io/badge/-jeremy-quihano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremy-quihano/)](https://www.linkedin.com/in/jeremy-quihano/) 
 [![Gmail Badge](https://img.shields.io/badge/-jeremyquihanodev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremyquihanodev@gmail.com)](mailto:jeremyquihanodev@gmail.com)
 
  
