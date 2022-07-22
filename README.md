@@ -8,7 +8,9 @@
 
 - 🌱 I am currently learning **React**
 
-- 💼 Accepting new clients. Check out my [portfolio](https://.netlify.app/)!
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+
+- 🚀 Fun Fact: I enjoy competitive gaming and hanging out with my frenchie Koda 🐶
 
 - 📫 Email me at [jeremyquihanodev@gmail.com](mailto:jeremyquihanodev@gmail.com)
 
