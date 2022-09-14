@@ -20,10 +20,6 @@
 
 - 📫 Email me at [jeremyquihanodev@gmail.com](mailto:jeremyquihanodev@gmail.com)
 
-### Connect with me  :coffee: :
-
-
-
  
   <h3> :toolbox: Tech Toolbox :</h3>
  <div align="">
