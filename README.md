@@ -1,7 +1,7 @@
 
-<div align="center"><img src="https://raw.githubusercontent.com/jquihano/jquihano/acdc3f04bc6c40b4126566f1416b6f14a6f859c2/banner.gif" alt="Welcome to my Github!" align="center" width="100%" height="300"></div>
 
-<h1 align="center">  Hi :wave:, I'm Jeremy! </h1>
+
+<h1 align="center">  Hi there:wave:, I'm Jeremy! </h1>
 <h3 align="center">A full stack engineer in Seattle, WA </h3>
 
 - 💡 Ask me about the **MERN** stack!
