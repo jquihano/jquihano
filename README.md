@@ -36,10 +36,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <div align="center">
 
 <a><h2>Always up for a challenge 👾</h2></a>
