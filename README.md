@@ -16,7 +16,7 @@
 
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 
-- 🚀 Fun Fact: I enjoy competitive gaming and hanging out with my frenchie Koda 🐶
+- 🚀 Fun Fact: I enjoy competitive gaming
 
 - 📫 Email me at [jeremyquihanodev@gmail.com](mailto:jeremyquihanodev@gmail.com)
 
