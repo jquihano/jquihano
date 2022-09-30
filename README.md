@@ -32,9 +32,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75%20Thousand%20lines%20of%20code-blue)
 
@@ -67,11 +67,11 @@ Sunday       35 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-CSS                      6 hrs 23 mins       ██████████████░░░░░░░░░░░   58.43% 
-HTML                     2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38% 
-JavaScript               1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
-TeX                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+CSS                      5 hrs 40 mins       █████████████░░░░░░░░░░░░   53.84% 
+JavaScript               2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.8% 
+HTML                     2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98% 
+EJS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
 
 ```
 
@@ -88,7 +88,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2022 02:42:51 UTC
+ Last Updated on 30/09/2022 02:55:39 UTC
 <!--END_SECTION:waka-->
 
 
