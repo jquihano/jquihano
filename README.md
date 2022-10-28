@@ -16,7 +16,6 @@
 
 - 🚀 Fun Fact: I enjoy competitive gaming
 
-- 📫 Email me at [jeremyquihanodev@gmail.com](mailto:jeremyquihanodev@gmail.com)
 
  
   <h3> :toolbox: Tech Toolbox :</h3>
