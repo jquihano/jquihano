@@ -14,7 +14,7 @@
 
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 
-- 🚀 Fun Fact: I enjoy competitive gaming
+- 🚀 Fun Fact: I enjoy woodworking in my free time
 
 
  
