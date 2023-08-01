@@ -11,7 +11,7 @@
 
 - 🌱 I am currently learning **React**
 
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 
 - 🚀 Fun Fact: I enjoy woodworking in my free time
 
